@@ -1,0 +1,4 @@
+interface:
+  display_name: "一级职业规划师"
+  short_description: "Senior career counseling workflows for complex cases"
+  default_prompt: "Use $level-one-career-planner to analyze a complex career decision and produce a senior-level counseling plan."
